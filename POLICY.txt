@@ -1,0 +1,26 @@
+Taskify User Policy
+Effective Date: 2025
+
+Introduction
+By using Taskify, you ("User") agree to be bound by these terms and conditions. Taskify is committed to protecting your privacy and ensuring the security of your data.
+
+Data Ownership
+You retain ownership of all data and content created within the Taskify app. Taskify does not claim any rights to your data.
+
+Data Storage
+Taskify stores your data locally on your device. We do not collect, transmit, or store your data on any external servers. You are responsible for securing your device and protecting your data.
+
+Data Privacy
+We do not collect, share, or sell any of your data. Your data remains private and secure. However, you acknowledge that data stored locally on your device may be vulnerable to unauthorized access if your device is compromised.
+
+Security Measures
+Taskify uses industry-standard encryption for data stored locally on your device (JSON files). However, the security of your data ultimately depends on the security of your device.
+
+Acknowledgement
+By using Taskify, you acknowledge that you have read, understood, and agree to these terms.
+
+Contact Us
+If you have any questions or concerns about our policy, please contact us at taskifyv1@gmail.com
+
+Changes to Policy
+We reserve the right to update or modify this policy at any time. We will notify you of any changes by updating the effective date at the top of this policy.
